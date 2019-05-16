@@ -23,7 +23,7 @@ You could fill the **"array"** parameter with integers/floats(**there 0 < length
 
 
 
-``` curl "http://localhost:8080/api/weather?city=NAME" ``` - get the temperature**(in Fahrenheits**) of the chosen city from the [OpenWeatherMap API]( https://openweathermap.org/api). The city's name is specified with the ```NAME``` parameter.
+``` curl "http://localhost:8080/api/weather?city=NAME" ``` - get the temperature **(in Fahrenheits)** of the chosen city from the [OpenWeatherMap API]( https://openweathermap.org/api). The city's name is specified with the ```NAME``` parameter.
 
 ____
 Coded by Andrey Shibaev (https://github.com/DWhistle)
