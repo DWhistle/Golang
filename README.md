@@ -3,17 +3,17 @@
   The project is to demonstrate basic knowledge and skills of GOlang/HTTP requests usage
 
 
-##Launch and installation stage
+## Launch and installation stage
 
 
- ####**Make sure you have GO distrib installed**
+ #### **Make sure you have GO distrib installed**
 	       
  Otherwise, proceed to [Golang.org](https://golang.org/doc/install) and download the **distribution package**.
 
 		        
 Then type ```go run server.go``` in the project folder.
 
-##Usage
+## Usage
 ####  All the requests could be either run in the browser, or directly from the console using ```curl``` command
 ``` curl "http://localhost:8080/api/now" ``` - get server's UTC time.
 
